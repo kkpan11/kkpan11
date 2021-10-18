@@ -23,3 +23,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkpan11&" alt="kkpan11" /></p>
 
+<details>
+ <summary> :laughing: Here is more details about me</summary>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</details>
