@@ -27,6 +27,84 @@
  <summary> :laughing: Here is more details about me</summary>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 13 Contributions in the Year 2021
+ > 
+> 📦 1.7 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    12 commits     ███████████████░░░░░░░░░░   63.16% 
+🌃 Evening    4 commits      █████░░░░░░░░░░░░░░░░░░░░   21.05% 
+🌙 Night      3 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.79%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       7 commits      █████████░░░░░░░░░░░░░░░░   36.84% 
+Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Wednesday    8 commits      ██████████░░░░░░░░░░░░░░░   42.11% 
+Thursday     1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Saturday     2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+Sunday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+C                        8 mins              █████████████░░░░░░░░░░░░   54.65% 
+Markdown                 7 mins              ███████████░░░░░░░░░░░░░░   45.05% 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+🔥 Editors: 
+VS Code                  16 mins             █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+LeetCode                 16 mins             █████████████████████████   100.0% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+💻 Operating System: 
+Mac                      16 mins             █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in Ruby** 
+
+```text
+Ruby                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+Objective-C              3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/kkpan11/kkpan11/main/charts/bar_graph.png) 
+
+
+ Last Updated on 20/10/2021
 <!--END_SECTION:waka-->
 
 </details>
