@@ -70,16 +70,16 @@ Sunday       2 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Bash                     9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Desktop                  9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -100,7 +100,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kkpan11/kkpan11/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/01/2022 00:21:38 UTC
+ Last Updated on 31/01/2022 00:21:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
