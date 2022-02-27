@@ -70,18 +70,16 @@ Sunday       4 commits      ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 7 mins              ███████████░░░░░░░░░░░░░░   44.42% 
-Swift                    6 mins              █████████░░░░░░░░░░░░░░░░   36.58% 
-C                        3 mins              ████░░░░░░░░░░░░░░░░░░░░░   19.01%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LeetCode                 17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -102,7 +100,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kkpan11/kkpan11/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/02/2022 00:31:50 UTC
+ Last Updated on 27/02/2022 00:29:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
