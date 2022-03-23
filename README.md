@@ -27,7 +27,7 @@
  <summary> :laughing: Here is more details about me</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
@@ -70,16 +70,18 @@ Sunday       4 commits      ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Swift                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+Ruby                     9 mins              █████████████████████████   100.0% 
+Swift                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+VS Code                  9 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-LeetCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+Unknown Project          9 mins              █████████████████████████   100.0% 
+LeetCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+Mac                      9 mins              █████████████████████████   100.0%
 
 ```
 
@@ -100,7 +102,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kkpan11/kkpan11/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/03/2022 00:30:12 UTC
+ Last Updated on 23/03/2022 00:34:02 UTC
 <!--END_SECTION:waka-->
 
 </details>
