@@ -27,7 +27,7 @@
  <summary> :laughing: Here is more details about me</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
 
 **🐱 My GitHub Data** 
 
@@ -70,16 +70,17 @@ Sunday       4 commits      ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Ruby                     11 mins             █████████████████████████   100.0% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  11 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          11 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      11 mins             █████████████████████████   100.0%
 
 ```
 
@@ -100,7 +101,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kkpan11/kkpan11/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/04/2022 00:30:11 UTC
+ Last Updated on 09/04/2022 00:30:40 UTC
 <!--END_SECTION:waka-->
 
 </details>
