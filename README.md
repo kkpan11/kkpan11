@@ -27,7 +27,7 @@
  <summary> :laughing: Here is more details about me</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
 
 **🐱 My GitHub Data** 
 
@@ -104,7 +104,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kkpan11/kkpan11/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/04/2022 00:34:14 UTC
+ Last Updated on 18/04/2022 00:40:58 UTC
 <!--END_SECTION:waka-->
 
 </details>
