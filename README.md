@@ -29,7 +29,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -102,7 +102,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kkpan11/kkpan11/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/05/2022 00:34:48 UTC
+ Last Updated on 12/05/2022 00:34:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
