@@ -29,13 +29,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 2 Contributions in the Year 2022
  > 
-> 📦 1.9 kB Used in GitHub's Storage 
+> 📦 1.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,16 +72,18 @@ Sunday       4 commits      ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TOML                     13 mins             ██████████████░░░░░░░░░░░   57.2% 
+Markdown                 9 mins              ██████████░░░░░░░░░░░░░░░   39.97% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  22 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+kkpan11.github.io        22 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      22 mins             █████████████████████████   100.0%
 
 ```
 
@@ -102,7 +104,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kkpan11/kkpan11/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/05/2022 00:33:26 UTC
+ Last Updated on 21/05/2022 00:33:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
