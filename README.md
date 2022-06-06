@@ -72,19 +72,16 @@ Sunday       13 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-TOML                     51 mins             ██████████████████████░░░   87.68% 
-Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  58 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-public                   29 mins             ████████████░░░░░░░░░░░░░   50.66% 
-kkpan11.github.io        28 mins             ████████████░░░░░░░░░░░░░   49.34%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      58 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -105,7 +102,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kkpan11/kkpan11/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/06/2022 00:40:46 UTC
+ Last Updated on 06/06/2022 00:33:47 UTC
 <!--END_SECTION:waka-->
 
 </details>
