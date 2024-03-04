@@ -1,0 +1,21 @@
+name: Recent Activity
+on:
+  # References:
+  # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule
+  # https://pubs.opengroup.org/onlinepubs/9699919799/utilities/crontab.html
+  # https://crontab.guru/
+  schedule:
+    # - cron: '*/30 * * * *' # Update every 30 minutes
+    - cron: '0 */2 * * *' # Update every 2 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update Profile README
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Readme-Workflows/recent-activity@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
