@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Maximalist Waka Readme
 
 on:
   workflow_dispatch:
