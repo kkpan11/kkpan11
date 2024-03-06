@@ -47,9 +47,9 @@ From: 04 February 2024 - To: 05 March 2024
 
 Total Time: 25 hrs 34 mins
 
-Markdown   23 hrs 25 mins  >>>>>>>>>>>>>>>>>>>>>>>--   91.35 %
-Swift      2 hrs 6 mins    >>-----------------------   08.25 %
-Other      3 mins          -------------------------   00.25 %
+Markdown   23 hrs 25 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀   91.35 %
+Swift      2 hrs 6 mins    ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.25 %
+Other      3 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.25 %
 ```
 
 <!--END_SECTION:waka-->
