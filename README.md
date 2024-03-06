@@ -43,14 +43,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2020 - To: 03 March 2024
+From: 04 February 2024 - To: 05 March 2024
 
-Total Time: 523 hrs 14 mins
+Total Time: 25 hrs 34 mins
 
-Markdown           308 hrs 33 mins >>>>>>>>>>>>>>-----------   57.83 %
-Swift              107 hrs 21 mins >>>>>--------------------   20.12 %
-Python             35 hrs 43 mins  >>-----------------------   06.70 %
-Other              10 hrs 20 mins  -------------------------   01.94 %
+Markdown   23 hrs 25 mins  >>>>>>>>>>>>>>>>>>>>>>>--   91.35 %
+Swift      2 hrs 6 mins    >>-----------------------   08.25 %
+Other      3 mins          -------------------------   00.25 %
 ```
 
 <!--END_SECTION:waka-->
