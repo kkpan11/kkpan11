@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/wakapi](https://github.com/kkpan11/wakapi) from [muety/wakapi](https://github.com/muety/wakapi)<br>
-2. ⭐ Starred [muety/wakapi](https://github.com/muety/wakapi)<br>
-3. 🍴 Forked [kkpan11/hakatime](https://github.com/kkpan11/hakatime) from [mujx/hakatime](https://github.com/mujx/hakatime)<br>
-4. 📦 Pushed 384 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-5. 📦 Pushed 143 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+1. ⭐ Starred [element-hq/synapse](https://github.com/element-hq/synapse)<br>
+2. 🍴 Forked [kkpan11/hydrogen-web](https://github.com/kkpan11/hydrogen-web) from [element-hq/hydrogen-web](https://github.com/element-hq/hydrogen-web)<br>
+3. ⭐ Starred [element-hq/hydrogen-web](https://github.com/element-hq/hydrogen-web)<br>
+4. 🍴 Forked [kkpan11/element-x-android](https://github.com/kkpan11/element-x-android) from [element-hq/element-x-android](https://github.com/element-hq/element-x-android)<br>
+5. ⭐ Starred [element-hq/element-x-android](https://github.com/element-hq/element-x-android)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
