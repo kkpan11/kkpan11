@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/R2D2BC](https://github.com/kkpan11/R2D2BC) from [d-i-t-a/R2D2BC](https://github.com/d-i-t-a/R2D2BC)<br>
-2. ⭐ Starred [d-i-t-a/R2D2BC](https://github.com/d-i-t-a/R2D2BC)<br>
-3. 🍴 Forked [kkpan11/siren](https://github.com/kkpan11/siren) from [kevinswiber/siren](https://github.com/kevinswiber/siren)<br>
-4. ⭐ Starred [kevinswiber/siren](https://github.com/kevinswiber/siren)<br>
-5. 🍴 Forked [kkpan11/kotlin-toolkit](https://github.com/kkpan11/kotlin-toolkit) from [readium/kotlin-toolkit](https://github.com/readium/kotlin-toolkit)<br>
+1. 🍴 Forked [kkpan11/awesome-opds](https://github.com/kkpan11/awesome-opds) from [opds-community/awesome-opds](https://github.com/opds-community/awesome-opds)<br>
+2. ⭐ Starred [opds-community/awesome-opds](https://github.com/opds-community/awesome-opds)<br>
+3. 🍴 Forked [kkpan11/opds-drafts](https://github.com/kkpan11/opds-drafts) from [opds-community/drafts](https://github.com/opds-community/drafts)<br>
+4. ⭐ Starred [opds-community/drafts](https://github.com/opds-community/drafts)<br>
+5. 🍴 Forked [kkpan11/opds-specs](https://github.com/kkpan11/opds-specs) from [opds-community/specs](https://github.com/opds-community/specs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
