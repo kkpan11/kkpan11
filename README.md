@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/osin](https://github.com/kkpan11/osin) from [openshift/osin](https://github.com/openshift/osin)<br>
-2. ⭐ Starred [openshift/osin](https://github.com/openshift/osin)<br>
-3. 🍴 Forked [kkpan11/openshift-docs](https://github.com/kkpan11/openshift-docs) from [openshift/openshift-docs](https://github.com/openshift/openshift-docs)<br>
-4. ⭐ Starred [openshift/openshift-docs](https://github.com/openshift/openshift-docs)<br>
-5. 🍴 Forked [kkpan11/clair](https://github.com/kkpan11/clair) from [quay/clair](https://github.com/quay/clair)<br>
+1. 🍴 Forked [kkpan11/nasa-api-docs](https://github.com/kkpan11/nasa-api-docs) from [nasa/api-docs](https://github.com/nasa/api-docs)<br>
+2. ⭐ Starred [nasa/api-docs](https://github.com/nasa/api-docs)<br>
+3. 🍴 Forked [kkpan11/osal](https://github.com/kkpan11/osal) from [nasa/osal](https://github.com/nasa/osal)<br>
+4. ⭐ Starred [nasa/osal](https://github.com/nasa/osal)<br>
+5. 🍴 Forked [kkpan11/XPlaneConnect](https://github.com/kkpan11/XPlaneConnect) from [nasa/XPlaneConnect](https://github.com/nasa/XPlaneConnect)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
