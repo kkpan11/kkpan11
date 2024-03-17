@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📦 Pushed 14 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-2. 📦 Pushed 10 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-3. 📦 Pushed 20 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-4. 📦 Pushed 10 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-5. 📦 Pushed 36 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+1. 🍴 Forked [kkpan11/PoGOEvents](https://github.com/kkpan11/PoGOEvents) from [bigfoott/PoGOEvents](https://github.com/bigfoott/PoGOEvents)<br>
+2. ⭐ Starred [bigfoott/PoGOEvents](https://github.com/bigfoott/PoGOEvents)<br>
+3. 🍴 Forked [kkpan11/ScrapedDuck](https://github.com/kkpan11/ScrapedDuck) from [bigfoott/ScrapedDuck](https://github.com/bigfoott/ScrapedDuck)<br>
+4. ⭐ Starred [bigfoott/ScrapedDuck](https://github.com/bigfoott/ScrapedDuck)<br>
+5. 🍴 Forked [kkpan11/go-calendar](https://github.com/kkpan11/go-calendar) from [othyn/go-calendar](https://github.com/othyn/go-calendar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
