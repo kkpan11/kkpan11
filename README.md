@@ -43,12 +43,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 February 2024 - To: 20 March 2024
+From: 20 February 2024 - To: 21 March 2024
 
-Total Time: 20 hrs 54 mins
+Total Time: 20 hrs 35 mins
 
-Markdown   20 hrs 33 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦   98.31 %
-Swift      21 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.69 %
+Markdown   20 hrs 14 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦   98.28 %
+Swift      21 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.72 %
 ```
 
 <!--END_SECTION:waka-->
