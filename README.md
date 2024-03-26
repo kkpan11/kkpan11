@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NetSys/bess](https://github.com/NetSys/bess)<br>
-2. 🍴 Forked [kkpan11/NetBricks](https://github.com/kkpan11/NetBricks) from [NetSys/NetBricks](https://github.com/NetSys/NetBricks)<br>
-3. ⭐ Starred [NetSys/NetBricks](https://github.com/NetSys/NetBricks)<br>
-4. 🍴 Forked [kkpan11/stat-cookbook](https://github.com/kkpan11/stat-cookbook) from [mavam/stat-cookbook](https://github.com/mavam/stat-cookbook)<br>
-5. 🍴 Forked [kkpan11/tenzir](https://github.com/kkpan11/tenzir) from [tenzir/tenzir](https://github.com/tenzir/tenzir)<br>
+1. 🍴 Forked [kkpan11/go-concurrency-exercises](https://github.com/kkpan11/go-concurrency-exercises) from [loong/go-concurrency-exercises](https://github.com/loong/go-concurrency-exercises)<br>
+2. ⭐ Starred [loong/go-concurrency-exercises](https://github.com/loong/go-concurrency-exercises)<br>
+3. 🍴 Forked [kkpan11/ecg_framenet](https://github.com/kkpan11/ecg_framenet) from [icsi-berkeley/ecg_framenet](https://github.com/icsi-berkeley/ecg_framenet)<br>
+4. ⭐ Starred [icsi-berkeley/ecg_framenet](https://github.com/icsi-berkeley/ecg_framenet)<br>
+5. 🍴 Forked [kkpan11/bess](https://github.com/kkpan11/bess) from [NetSys/bess](https://github.com/NetSys/bess)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
