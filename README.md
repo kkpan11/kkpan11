@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/SHSearchBar](https://github.com/kkpan11/SHSearchBar) from [Blackjacx/SHSearchBar](https://github.com/Blackjacx/SHSearchBar)<br>
-2. ⭐ Starred [Blackjacx/SHSearchBar](https://github.com/Blackjacx/SHSearchBar)<br>
-3. 📦 Pushed 18 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-4. 📦 Pushed 38 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-5. 📦 Pushed 38 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+1. 🍴 Forked [kkpan11/ReScience](https://github.com/kkpan11/ReScience) from [ReScience/ReScience](https://github.com/ReScience/ReScience)<br>
+2. ⭐ Starred [ReScience/ReScience](https://github.com/ReScience/ReScience)<br>
+3. 🍴 Forked [kkpan11/wesanderson](https://github.com/kkpan11/wesanderson) from [karthik/wesanderson](https://github.com/karthik/wesanderson)<br>
+4. 🍴 Forked [kkpan11/r-color-palettes](https://github.com/kkpan11/r-color-palettes) from [EmilHvitfeldt/r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes)<br>
+5. ⭐ Starred [karthik/wesanderson](https://github.com/karthik/wesanderson)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
