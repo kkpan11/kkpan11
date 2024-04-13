@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#92](https://github.com/Ptt-official-app/Ptt-iOS/pull/92#issuecomment-2053596401) in [Ptt-official-app/Ptt-iOS](https://github.com/Ptt-official-app/Ptt-iOS)<br>
-2. 💬 Commented on [#92](https://github.com/Ptt-official-app/Ptt-iOS/pull/92#discussion_r1563915707) in [Ptt-official-app/Ptt-iOS](https://github.com/Ptt-official-app/Ptt-iOS)<br>
-3. 🍴 Forked [kkpan11/headscale](https://github.com/kkpan11/headscale) from [juanfont/headscale](https://github.com/juanfont/headscale)<br>
-4. 🍴 Forked [kkpan11/displayplacer](https://github.com/kkpan11/displayplacer) from [jakehilborn/displayplacer](https://github.com/jakehilborn/displayplacer)<br>
-5. ⭐ Starred [jakehilborn/displayplacer](https://github.com/jakehilborn/displayplacer)<br>
+1. 🍴 Forked [kkpan11/ZeroTierOne](https://github.com/kkpan11/ZeroTierOne) from [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne)<br>
+2. ⭐ Starred [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne)<br>
+3. 🍴 Forked [kkpan11/hassio-addons-repository](https://github.com/kkpan11/hassio-addons-repository) from [hassio-addons/repository](https://github.com/hassio-addons/repository)<br>
+4. ⭐ Starred [hassio-addons/repository](https://github.com/hassio-addons/repository)<br>
+5. 🍴 Forked [kkpan11/awesome-home-assistant](https://github.com/kkpan11/awesome-home-assistant) from [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
