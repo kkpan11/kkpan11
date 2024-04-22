@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📦 Pushed 16 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-2. 📦 Pushed 32 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-3. 📦 Pushed 96 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-4. 📦 Pushed 4 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-5. 📦 Pushed 29 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+1. ⭐ Starred [jqlang/jq](https://github.com/jqlang/jq)<br>
+2. 🍴 Forked [kkpan11/yq](https://github.com/kkpan11/yq) from [mikefarah/yq](https://github.com/mikefarah/yq)<br>
+3. ⭐ Starred [mikefarah/yq](https://github.com/mikefarah/yq)<br>
+4. 🍴 Forked [kkpan11/aichat](https://github.com/kkpan11/aichat) from [sigoden/aichat](https://github.com/sigoden/aichat)<br>
+5. ⭐ Starred [sigoden/aichat](https://github.com/sigoden/aichat)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
