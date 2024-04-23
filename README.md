@@ -14,10 +14,10 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📦 Pushed 12 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-2. 📦 Pushed 9 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-3. 📦 Pushed 10000 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-4. 📦 Pushed 144 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+1. 🍴 Forked [kkpan11/complish](https://github.com/kkpan11/complish) from [werifu/complish](https://github.com/werifu/complish)<br>
+2. ⭐ Starred [werifu/complish](https://github.com/werifu/complish)<br>
+3. 🍴 Forked [kkpan11/fnm](https://github.com/kkpan11/fnm) from [Schniz/fnm](https://github.com/Schniz/fnm)<br>
+4. ⭐ Starred [Schniz/fnm](https://github.com/Schniz/fnm)<br>
 5. 📦 Pushed 12 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
 <!--RECENT_ACTIVITY:end-->
 
