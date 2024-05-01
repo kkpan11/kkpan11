@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📦 Pushed 10000 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-2. 📦 Pushed 10000 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-3. 📦 Pushed 12 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-4. 📦 Pushed 1 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-5. 📦 Pushed 7 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+1. 🍴 Forked [kkpan11/gptwol](https://github.com/kkpan11/gptwol) from [Misterbabou/gptwol](https://github.com/Misterbabou/gptwol)<br>
+2. 🍴 Forked [kkpan11/UpSnap](https://github.com/kkpan11/UpSnap) from [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap)<br>
+3. ⭐ Starred [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap)<br>
+4. ⭐ Starred [Misterbabou/gptwol](https://github.com/Misterbabou/gptwol)<br>
+5. 🍴 Forked [kkpan11/Remote-Wake-Sleep-On-LAN-Docker](https://github.com/kkpan11/Remote-Wake-Sleep-On-LAN-Docker) from [ex0nuss/Remote-Wake-Sleep-On-LAN-Docker](https://github.com/ex0nuss/Remote-Wake-Sleep-On-LAN-Docker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
