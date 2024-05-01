@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📦 Pushed 2 commit(s) to [kkpan11/mkxp-z](https://github.com/kkpan11/mkxp-z)<br>
-2. 🍴 Forked [kkpan11/wakeonlan](https://github.com/kkpan11/wakeonlan) from [jpoliv/wakeonlan](https://github.com/jpoliv/wakeonlan)<br>
-3. ⭐ Starred [jpoliv/wakeonlan](https://github.com/jpoliv/wakeonlan)<br>
-4. 🍴 Forked [kkpan11/Random-PowerShell-Work](https://github.com/kkpan11/Random-PowerShell-Work) from [adbertram/Random-PowerShell-Work](https://github.com/adbertram/Random-PowerShell-Work)<br>
-5. ⭐ Starred [adbertram/Random-PowerShell-Work](https://github.com/adbertram/Random-PowerShell-Work)<br>
+1. 📦 Pushed 10000 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+2. 📦 Pushed 10000 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+3. 📦 Pushed 12 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+4. 📦 Pushed 1 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+5. 📦 Pushed 7 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
