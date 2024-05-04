@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/fastfetch](https://github.com/kkpan11/fastfetch) from [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)<br>
-2. ⭐ Starred [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)<br>
-3. 📦 Pushed 1157 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-4. 📦 Pushed 2 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-5. 📦 Pushed 6 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+1. 🍴 Forked [kkpan11/WinCDEmu](https://github.com/kkpan11/WinCDEmu) from [sysprogs/WinCDEmu](https://github.com/sysprogs/WinCDEmu)<br>
+2. ⭐ Starred [sysprogs/WinCDEmu](https://github.com/sysprogs/WinCDEmu)<br>
+3. 🍴 Forked [kkpan11/gowsdl](https://github.com/kkpan11/gowsdl) from [hooklift/gowsdl](https://github.com/hooklift/gowsdl)<br>
+4. ⭐ Starred [hooklift/gowsdl](https://github.com/hooklift/gowsdl)<br>
+5. 🍴 Forked [kkpan11/xbfuse](https://github.com/kkpan11/xbfuse) from [multimediamike/xbfuse](https://github.com/multimediamike/xbfuse)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
