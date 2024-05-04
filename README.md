@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/BazisLib](https://github.com/kkpan11/BazisLib) from [sysprogs/BazisLib](https://github.com/sysprogs/BazisLib)<br>
-2. 🍴 Forked [kkpan11/stlport-kernel](https://github.com/kkpan11/stlport-kernel) from [sysprogs/stlport-kernel](https://github.com/sysprogs/stlport-kernel)<br>
-3. ⭐ Starred [sysprogs/stlport-kernel](https://github.com/sysprogs/stlport-kernel)<br>
-4. ⭐ Starred [sysprogs/BazisLib](https://github.com/sysprogs/BazisLib)<br>
-5. 🍴 Forked [kkpan11/WinCDEmu](https://github.com/kkpan11/WinCDEmu) from [sysprogs/WinCDEmu](https://github.com/sysprogs/WinCDEmu)<br>
+1. 🍴 Forked [kkpan11/BiglyBT-Android](https://github.com/kkpan11/BiglyBT-Android) from [BiglySoftware/BiglyBT-Android](https://github.com/BiglySoftware/BiglyBT-Android)<br>
+2. 🍴 Forked [kkpan11/BiglyBT](https://github.com/kkpan11/BiglyBT) from [BiglySoftware/BiglyBT](https://github.com/BiglySoftware/BiglyBT)<br>
+3. ⭐ Starred [BiglySoftware/BiglyBT-Android](https://github.com/BiglySoftware/BiglyBT-Android)<br>
+4. 🍴 Forked [kkpan11/BazisLib](https://github.com/kkpan11/BazisLib) from [sysprogs/BazisLib](https://github.com/sysprogs/BazisLib)<br>
+5. 🍴 Forked [kkpan11/stlport-kernel](https://github.com/kkpan11/stlport-kernel) from [sysprogs/stlport-kernel](https://github.com/sysprogs/stlport-kernel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
