@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/nvim-treesitter-textobjects](https://github.com/kkpan11/nvim-treesitter-textobjects) from [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)<br>
-2. ⭐ Starred [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)<br>
-3. 🍴 Forked [kkpan11/nvim-treesitter](https://github.com/kkpan11/nvim-treesitter) from [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)<br>
-4. ⭐ Starred [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)<br>
-5. 🍴 Forked [kkpan11/neovim](https://github.com/kkpan11/neovim) from [neovim/neovim](https://github.com/neovim/neovim)<br>
+1. 🍴 Forked [kkpan11/game-programming-patterns](https://github.com/kkpan11/game-programming-patterns) from [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns)<br>
+2. 🍴 Forked [kkpan11/craftinginterpreters](https://github.com/kkpan11/craftinginterpreters) from [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters)<br>
+3. 🍴 Forked [kkpan11/nvim-treesitter-textobjects](https://github.com/kkpan11/nvim-treesitter-textobjects) from [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)<br>
+4. ⭐ Starred [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)<br>
+5. 🍴 Forked [kkpan11/nvim-treesitter](https://github.com/kkpan11/nvim-treesitter) from [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
