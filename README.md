@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📦 Pushed 922 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-2. 📦 Pushed 401 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-3. 📦 Pushed 14 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-4. 📦 Pushed 7 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-5. 📦 Pushed 22 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+1. 🍴 Forked [kkpan11/fcitx5-mcbopomofo](https://github.com/kkpan11/fcitx5-mcbopomofo) from [openvanilla/fcitx5-mcbopomofo](https://github.com/openvanilla/fcitx5-mcbopomofo)<br>
+2. ⭐ Starred [openvanilla/fcitx5-mcbopomofo](https://github.com/openvanilla/fcitx5-mcbopomofo)<br>
+3. 📦 Pushed 922 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+4. 📦 Pushed 401 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+5. 📦 Pushed 14 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
