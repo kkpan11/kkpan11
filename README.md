@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/KindleChewing](https://github.com/kkpan11/KindleChewing) from [tjwei/KindleChewing](https://github.com/tjwei/KindleChewing)<br>
-2. ⭐ Starred [tjwei/KindleChewing](https://github.com/tjwei/KindleChewing)<br>
-3. 🍴 Forked [kkpan11/libfreearray](https://github.com/kkpan11/libfreearray) from [shaform/libfreearray](https://github.com/shaform/libfreearray)<br>
-4. ⭐ Starred [shaform/libfreearray](https://github.com/shaform/libfreearray)<br>
-5. 🍴 Forked [kkpan11/ucimf](https://github.com/kkpan11/ucimf) from [matlinuxer2/ucimf](https://github.com/matlinuxer2/ucimf)<br>
+1. 🍴 Forked [kkpan11/tidevice3](https://github.com/kkpan11/tidevice3) from [codeskyblue/tidevice3](https://github.com/codeskyblue/tidevice3)<br>
+2. ⭐ Starred [codeskyblue/tidevice3](https://github.com/codeskyblue/tidevice3)<br>
+3. 🍴 Forked [kkpan11/usbmuxd2](https://github.com/kkpan11/usbmuxd2) from [tihmstar/usbmuxd2](https://github.com/tihmstar/usbmuxd2)<br>
+4. ⭐ Starred [tihmstar/usbmuxd2](https://github.com/tihmstar/usbmuxd2)<br>
+5. 🍴 Forked [kkpan11/KindleChewing](https://github.com/kkpan11/KindleChewing) from [tjwei/KindleChewing](https://github.com/tjwei/KindleChewing)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
