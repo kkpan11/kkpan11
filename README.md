@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📦 Pushed 6 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-2. 📦 Pushed 135 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-3. 📦 Pushed 12 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-4. 📦 Pushed 8 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-5. 📦 Pushed 8 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+1. 🍴 Forked [kkpan11/KindleChewing](https://github.com/kkpan11/KindleChewing) from [tjwei/KindleChewing](https://github.com/tjwei/KindleChewing)<br>
+2. ⭐ Starred [tjwei/KindleChewing](https://github.com/tjwei/KindleChewing)<br>
+3. 🍴 Forked [kkpan11/libfreearray](https://github.com/kkpan11/libfreearray) from [shaform/libfreearray](https://github.com/shaform/libfreearray)<br>
+4. ⭐ Starred [shaform/libfreearray](https://github.com/shaform/libfreearray)<br>
+5. 🍴 Forked [kkpan11/ucimf](https://github.com/kkpan11/ucimf) from [matlinuxer2/ucimf](https://github.com/matlinuxer2/ucimf)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
