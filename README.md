@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/velopack](https://github.com/kkpan11/velopack) from [velopack/velopack](https://github.com/velopack/velopack)<br>
-2. ⭐ Starred [velopack/velopack](https://github.com/velopack/velopack)<br>
-3. 🍴 Forked [kkpan11/simple-video-cutter](https://github.com/kkpan11/simple-video-cutter) from [bartekmotyl/simple-video-cutter](https://github.com/bartekmotyl/simple-video-cutter)<br>
-4. ⭐ Starred [bartekmotyl/simple-video-cutter](https://github.com/bartekmotyl/simple-video-cutter)<br>
-5. 🍴 Forked [kkpan11/CapsWriter-Offline](https://github.com/kkpan11/CapsWriter-Offline) from [HaujetZhao/CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline)<br>
+1. 🍴 Forked [kkpan11/mir](https://github.com/kkpan11/mir) from [canonical/mir](https://github.com/canonical/mir)<br>
+2. ⭐ Starred [canonical/mir](https://github.com/canonical/mir)<br>
+3. 🍴 Forked [kkpan11/uniclip](https://github.com/kkpan11/uniclip) from [quackduck/uniclip](https://github.com/quackduck/uniclip)<br>
+4. 🍴 Forked [kkpan11/shareclip](https://github.com/kkpan11/shareclip) from [khrj/shareclip](https://github.com/khrj/shareclip)<br>
+5. ⭐ Starred [khrj/shareclip](https://github.com/khrj/shareclip)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
