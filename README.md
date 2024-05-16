@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/tidevice3](https://github.com/kkpan11/tidevice3) from [codeskyblue/tidevice3](https://github.com/codeskyblue/tidevice3)<br>
-2. ⭐ Starred [codeskyblue/tidevice3](https://github.com/codeskyblue/tidevice3)<br>
-3. 🍴 Forked [kkpan11/usbmuxd2](https://github.com/kkpan11/usbmuxd2) from [tihmstar/usbmuxd2](https://github.com/tihmstar/usbmuxd2)<br>
-4. ⭐ Starred [tihmstar/usbmuxd2](https://github.com/tihmstar/usbmuxd2)<br>
-5. 🍴 Forked [kkpan11/KindleChewing](https://github.com/kkpan11/KindleChewing) from [tjwei/KindleChewing](https://github.com/tjwei/KindleChewing)<br>
+1. 📦 Pushed 147 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+2. 📦 Pushed 1 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+3. 📦 Pushed 2 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+4. 📦 Pushed 589 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+5. 📦 Pushed 557 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
