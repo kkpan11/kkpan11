@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/gow](https://github.com/kkpan11/gow) from [bmatzelle/gow](https://github.com/bmatzelle/gow)<br>
-2. ⭐ Starred [bmatzelle/gow](https://github.com/bmatzelle/gow)<br>
-3. 🍴 Forked [kkpan11/Clip](https://github.com/kkpan11/Clip) from [rileytestut/Clip](https://github.com/rileytestut/Clip)<br>
-4. ⭐ Starred [rileytestut/Clip](https://github.com/rileytestut/Clip)<br>
-5. 🍴 Forked [kkpan11/AltStore](https://github.com/kkpan11/AltStore) from [altstoreio/AltStore](https://github.com/altstoreio/AltStore)<br>
+1. ⭐ Starred [slhck/ffmpeg-normalize](https://github.com/slhck/ffmpeg-normalize)<br>
+2. 🍴 Forked [kkpan11/stripe-cli](https://github.com/kkpan11/stripe-cli) from [stripe/stripe-cli](https://github.com/stripe/stripe-cli)<br>
+3. ⭐ Starred [stripe/stripe-cli](https://github.com/stripe/stripe-cli)<br>
+4. 🍴 Forked [kkpan11/stripe-mock](https://github.com/kkpan11/stripe-mock) from [stripe/stripe-mock](https://github.com/stripe/stripe-mock)<br>
+5. 🍴 Forked [kkpan11/stripe-python](https://github.com/kkpan11/stripe-python) from [stripe/stripe-python](https://github.com/stripe/stripe-python)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
