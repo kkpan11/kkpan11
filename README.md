@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/gov4git](https://github.com/kkpan11/gov4git) from [gov4git/gov4git](https://github.com/gov4git/gov4git)<br>
-2. ⭐ Starred [gov4git/gov4git](https://github.com/gov4git/gov4git)<br>
-3. 🍴 Forked [kkpan11/plurality](https://github.com/kkpan11/plurality) from [pluralitybook/plurality](https://github.com/pluralitybook/plurality)<br>
-4. ⭐ Starred [pluralitybook/plurality](https://github.com/pluralitybook/plurality)<br>
-5. 📦 Pushed 128 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+1. ⭐ Starred [audreyt/plurality](https://github.com/audreyt/plurality)<br>
+2. 🍴 Forked [kkpan11/gov4git](https://github.com/kkpan11/gov4git) from [gov4git/gov4git](https://github.com/gov4git/gov4git)<br>
+3. ⭐ Starred [gov4git/gov4git](https://github.com/gov4git/gov4git)<br>
+4. 🍴 Forked [kkpan11/plurality](https://github.com/kkpan11/plurality) from [pluralitybook/plurality](https://github.com/pluralitybook/plurality)<br>
+5. ⭐ Starred [pluralitybook/plurality](https://github.com/pluralitybook/plurality)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
