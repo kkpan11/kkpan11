@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/mdbook-linkcheck](https://github.com/kkpan11/mdbook-linkcheck) from [Michael-F-Bryan/mdbook-linkcheck](https://github.com/Michael-F-Bryan/mdbook-linkcheck)<br>
-2. ⭐ Starred [Michael-F-Bryan/mdbook-linkcheck](https://github.com/Michael-F-Bryan/mdbook-linkcheck)<br>
-3. 🍴 Forked [kkpan11/LibertyDSNP-papers](https://github.com/kkpan11/LibertyDSNP-papers) from [LibertyDSNP/papers](https://github.com/LibertyDSNP/papers)<br>
-4. ⭐ Starred [LibertyDSNP/papers](https://github.com/LibertyDSNP/papers)<br>
-5. 🍴 Forked [kkpan11/LibertyDSNP-spec](https://github.com/kkpan11/LibertyDSNP-spec) from [LibertyDSNP/spec](https://github.com/LibertyDSNP/spec)<br>
+1. ⭐ Starred [johnhadaway/plurality.net](https://github.com/johnhadaway/plurality.net)<br>
+2. 🍴 Forked [kkpan11/quadratic-voting](https://github.com/kkpan11/quadratic-voting) from [RadicalxChange/quadratic-voting](https://github.com/RadicalxChange/quadratic-voting)<br>
+3. ⭐ Starred [RadicalxChange/quadratic-voting](https://github.com/RadicalxChange/quadratic-voting)<br>
+4. ⭐ Starred [Anish-Agnihotri/quadratic-voting](https://github.com/Anish-Agnihotri/quadratic-voting)<br>
+5. 🍴 Forked [kkpan11/rxc-voice](https://github.com/kkpan11/rxc-voice) from [RadicalxChange/rxc-voice](https://github.com/RadicalxChange/rxc-voice)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
