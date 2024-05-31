@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/siyuan](https://github.com/kkpan11/siyuan) from [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)<br>
-2. ⭐ Starred [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)<br>
-3. 🍴 Forked [kkpan11/obsidian-latex-suite](https://github.com/kkpan11/obsidian-latex-suite) from [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite)<br>
-4. 🍴 Forked [kkpan11/the-vault](https://github.com/kkpan11/the-vault) from [littlefish-foundation/the-vault](https://github.com/littlefish-foundation/the-vault)<br>
-5. ⭐ Starred [littlefish-foundation/the-vault](https://github.com/littlefish-foundation/the-vault)<br>
+1. 🍴 Forked [kkpan11/hugo-embed-pdf-shortcode](https://github.com/kkpan11/hugo-embed-pdf-shortcode) from [anvithks/hugo-embed-pdf-shortcode](https://github.com/anvithks/hugo-embed-pdf-shortcode)<br>
+2. ⭐ Starred [open-spaced-repetition/free-spaced-repetition-scheduler](https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler)<br>
+3. 🍴 Forked [kkpan11/free-spaced-repetition-scheduler](https://github.com/kkpan11/free-spaced-repetition-scheduler) from [open-spaced-repetition/free-spaced-repetition-scheduler](https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler)<br>
+4. 🍴 Forked [kkpan11/fsrs4anki](https://github.com/kkpan11/fsrs4anki) from [open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki)<br>
+5. ⭐ Starred [open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
