@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/flexoki](https://github.com/kkpan11/flexoki) from [kepano/flexoki](https://github.com/kepano/flexoki)<br>
-2. ⭐ Starred [kepano/flexoki](https://github.com/kepano/flexoki)<br>
-3. 🍴 Forked [kkpan11/digital-garden-jekyll-template](https://github.com/kkpan11/digital-garden-jekyll-template) from [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)<br>
-4. ⭐ Starred [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)<br>
-5. 🍴 Forked [kkpan11/obsidian-minimal](https://github.com/kkpan11/obsidian-minimal) from [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal)<br>
+1. 🍴 Forked [kkpan11/siyuan](https://github.com/kkpan11/siyuan) from [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)<br>
+2. ⭐ Starred [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)<br>
+3. 🍴 Forked [kkpan11/obsidian-latex-suite](https://github.com/kkpan11/obsidian-latex-suite) from [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite)<br>
+4. 🍴 Forked [kkpan11/the-vault](https://github.com/kkpan11/the-vault) from [littlefish-foundation/the-vault](https://github.com/littlefish-foundation/the-vault)<br>
+5. ⭐ Starred [littlefish-foundation/the-vault](https://github.com/littlefish-foundation/the-vault)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
