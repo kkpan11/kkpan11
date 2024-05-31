@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/automa](https://github.com/kkpan11/automa) from [AutomaApp/automa](https://github.com/AutomaApp/automa)<br>
-2. ⭐ Starred [AutomaApp/automa](https://github.com/AutomaApp/automa)<br>
-3. 📦 Pushed 676 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-4. 📦 Pushed 4 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-5. 📦 Pushed 295 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+1. 🍴 Forked [kkpan11/flexoki](https://github.com/kkpan11/flexoki) from [kepano/flexoki](https://github.com/kepano/flexoki)<br>
+2. ⭐ Starred [kepano/flexoki](https://github.com/kepano/flexoki)<br>
+3. 🍴 Forked [kkpan11/digital-garden-jekyll-template](https://github.com/kkpan11/digital-garden-jekyll-template) from [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)<br>
+4. ⭐ Starred [maximevaillancourt/digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)<br>
+5. 🍴 Forked [kkpan11/obsidian-minimal](https://github.com/kkpan11/obsidian-minimal) from [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
