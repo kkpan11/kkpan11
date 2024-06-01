@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/hugo-embed-pdf-shortcode](https://github.com/kkpan11/hugo-embed-pdf-shortcode) from [anvithks/hugo-embed-pdf-shortcode](https://github.com/anvithks/hugo-embed-pdf-shortcode)<br>
-2. ⭐ Starred [open-spaced-repetition/free-spaced-repetition-scheduler](https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler)<br>
-3. 🍴 Forked [kkpan11/free-spaced-repetition-scheduler](https://github.com/kkpan11/free-spaced-repetition-scheduler) from [open-spaced-repetition/free-spaced-repetition-scheduler](https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler)<br>
-4. 🍴 Forked [kkpan11/fsrs4anki](https://github.com/kkpan11/fsrs4anki) from [open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki)<br>
-5. ⭐ Starred [open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki)<br>
+1. 📦 Pushed 7 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+2. 📦 Pushed 7 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+3. 📦 Pushed 102 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+4. 📦 Pushed 383 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+5. 📦 Pushed 401 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
