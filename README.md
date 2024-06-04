@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/rust-lang-regex](https://github.com/kkpan11/rust-lang-regex) from [rust-lang/regex](https://github.com/rust-lang/regex)<br>
-2. 🍴 Forked [kkpan11/miri](https://github.com/kkpan11/miri) from [rust-lang/miri](https://github.com/rust-lang/miri)<br>
-3. 🍴 Forked [kkpan11/rust-bindgen](https://github.com/kkpan11/rust-bindgen) from [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen)<br>
-4. ⭐ Starred [rust-lang/miri](https://github.com/rust-lang/miri)<br>
-5. ⭐ Starred [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen)<br>
+1. 🍴 Forked [kkpan11/Stirling-PDF](https://github.com/kkpan11/Stirling-PDF) from [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)<br>
+2. ⭐ Starred [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)<br>
+3. 🍴 Forked [kkpan11/PDF4QT](https://github.com/kkpan11/PDF4QT) from [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT)<br>
+4. ⭐ Starred [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT)<br>
+5. 🍴 Forked [kkpan11/PEP](https://github.com/kkpan11/PEP) from [orklann/PEP](https://github.com/orklann/PEP)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
