@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/Stirling-PDF](https://github.com/kkpan11/Stirling-PDF) from [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)<br>
-2. ⭐ Starred [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)<br>
-3. 🍴 Forked [kkpan11/PDF4QT](https://github.com/kkpan11/PDF4QT) from [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT)<br>
-4. ⭐ Starred [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT)<br>
-5. 🍴 Forked [kkpan11/PEP](https://github.com/kkpan11/PEP) from [orklann/PEP](https://github.com/orklann/PEP)<br>
+1. ⭐ Starred [ClementGre/PDF4Teachers](https://github.com/ClementGre/PDF4Teachers)<br>
+2. 🍴 Forked [kkpan11/Stirling-PDF](https://github.com/kkpan11/Stirling-PDF) from [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)<br>
+3. ⭐ Starred [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)<br>
+4. 🍴 Forked [kkpan11/PDF4QT](https://github.com/kkpan11/PDF4QT) from [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT)<br>
+5. ⭐ Starred [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
