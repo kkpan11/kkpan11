@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📦 Pushed 1 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-2. 📦 Pushed 382 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-3. 📦 Pushed 396 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-4. 📦 Pushed 126 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-5. 🍴 Forked [kkpan11/TW-Values](https://github.com/kkpan11/TW-Values) from [TWValues/TW-Values](https://github.com/TWValues/TW-Values)<br>
+1. 🍴 Forked [kkpan11/rust-lang-regex](https://github.com/kkpan11/rust-lang-regex) from [rust-lang/regex](https://github.com/rust-lang/regex)<br>
+2. 🍴 Forked [kkpan11/miri](https://github.com/kkpan11/miri) from [rust-lang/miri](https://github.com/rust-lang/miri)<br>
+3. 🍴 Forked [kkpan11/rust-bindgen](https://github.com/kkpan11/rust-bindgen) from [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen)<br>
+4. ⭐ Starred [rust-lang/miri](https://github.com/rust-lang/miri)<br>
+5. ⭐ Starred [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
