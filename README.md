@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/pdfbox](https://github.com/kkpan11/pdfbox) from [apache/pdfbox](https://github.com/apache/pdfbox)<br>
-2. 🍴 Forked [kkpan11/OCRmyPDF](https://github.com/kkpan11/OCRmyPDF) from [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)<br>
-3. 🍴 Forked [kkpan11/sioyek](https://github.com/kkpan11/sioyek) from [ahrm/sioyek](https://github.com/ahrm/sioyek)<br>
-4. 🍴 Forked [kkpan11/xournalpp](https://github.com/kkpan11/xournalpp) from [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp)<br>
-5. ⭐ Starred [ahrm/sioyek](https://github.com/ahrm/sioyek)<br>
+1. 🍴 Forked [kkpan11/ipyflow](https://github.com/kkpan11/ipyflow) from [ipyflow/ipyflow](https://github.com/ipyflow/ipyflow)<br>
+2. ⭐ Starred [ipyflow/ipyflow](https://github.com/ipyflow/ipyflow)<br>
+3. 🍴 Forked [kkpan11/ffsubsync](https://github.com/kkpan11/ffsubsync) from [smacke/ffsubsync](https://github.com/smacke/ffsubsync)<br>
+4. 🍴 Forked [kkpan11/pysubs2](https://github.com/kkpan11/pysubs2) from [tkarabela/pysubs2](https://github.com/tkarabela/pysubs2)<br>
+5. ⭐ Starred [tkarabela/pysubs2](https://github.com/tkarabela/pysubs2)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
