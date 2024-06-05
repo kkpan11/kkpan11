@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/sioyek](https://github.com/kkpan11/sioyek) from [ahrm/sioyek](https://github.com/ahrm/sioyek)<br>
-2. 🍴 Forked [kkpan11/xournalpp](https://github.com/kkpan11/xournalpp) from [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp)<br>
-3. ⭐ Starred [ahrm/sioyek](https://github.com/ahrm/sioyek)<br>
-4. 🍴 Forked [kkpan11/pdf-reader](https://github.com/kkpan11/pdf-reader) from [yob/pdf-reader](https://github.com/yob/pdf-reader)<br>
-5. ⭐ Starred [yob/pdf-reader](https://github.com/yob/pdf-reader)<br>
+1. 🍴 Forked [kkpan11/pdfbox](https://github.com/kkpan11/pdfbox) from [apache/pdfbox](https://github.com/apache/pdfbox)<br>
+2. 🍴 Forked [kkpan11/OCRmyPDF](https://github.com/kkpan11/OCRmyPDF) from [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)<br>
+3. 🍴 Forked [kkpan11/sioyek](https://github.com/kkpan11/sioyek) from [ahrm/sioyek](https://github.com/ahrm/sioyek)<br>
+4. 🍴 Forked [kkpan11/xournalpp](https://github.com/kkpan11/xournalpp) from [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp)<br>
+5. ⭐ Starred [ahrm/sioyek](https://github.com/ahrm/sioyek)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
