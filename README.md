@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/PDFEdit](https://github.com/kkpan11/PDFEdit) from [nullishzero/PDFEdit](https://github.com/nullishzero/PDFEdit)<br>
-2. ⭐ Starred [nullishzero/PDFEdit](https://github.com/nullishzero/PDFEdit)<br>
-3. 🍴 Forked [kkpan11/PDF4Teachers](https://github.com/kkpan11/PDF4Teachers) from [ClementGre/PDF4Teachers](https://github.com/ClementGre/PDF4Teachers)<br>
-4. 🍴 Forked [kkpan11/pdf-metadata-editor](https://github.com/kkpan11/pdf-metadata-editor) from [zaro/pdf-metadata-editor](https://github.com/zaro/pdf-metadata-editor)<br>
-5. ⭐ Starred [zaro/pdf-metadata-editor](https://github.com/zaro/pdf-metadata-editor)<br>
+1. 🍴 Forked [kkpan11/sioyek](https://github.com/kkpan11/sioyek) from [ahrm/sioyek](https://github.com/ahrm/sioyek)<br>
+2. 🍴 Forked [kkpan11/xournalpp](https://github.com/kkpan11/xournalpp) from [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp)<br>
+3. ⭐ Starred [ahrm/sioyek](https://github.com/ahrm/sioyek)<br>
+4. 🍴 Forked [kkpan11/pdf-reader](https://github.com/kkpan11/pdf-reader) from [yob/pdf-reader](https://github.com/yob/pdf-reader)<br>
+5. ⭐ Starred [yob/pdf-reader](https://github.com/yob/pdf-reader)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
