@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/xamarin-macios](https://github.com/kkpan11/xamarin-macios) from [xamarin/xamarin-macios](https://github.com/xamarin/xamarin-macios)<br>
-2. ⭐ Starred [xamarin/xamarin-macios](https://github.com/xamarin/xamarin-macios)<br>
-3. 🍴 Forked [kkpan11/PongoOS](https://github.com/kkpan11/PongoOS) from [checkra1n/PongoOS](https://github.com/checkra1n/PongoOS)<br>
-4. ⭐ Starred [checkra1n/PongoOS](https://github.com/checkra1n/PongoOS)<br>
-5. 🍴 Forked [kkpan11/flipperzero-firmware](https://github.com/kkpan11/flipperzero-firmware) from [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)<br>
+1. ⭐ Starred [ridgerchu/matmulfreellm](https://github.com/ridgerchu/matmulfreellm)<br>
+2. 🍴 Forked [kkpan11/xamarin-macios](https://github.com/kkpan11/xamarin-macios) from [xamarin/xamarin-macios](https://github.com/xamarin/xamarin-macios)<br>
+3. ⭐ Starred [xamarin/xamarin-macios](https://github.com/xamarin/xamarin-macios)<br>
+4. 🍴 Forked [kkpan11/PongoOS](https://github.com/kkpan11/PongoOS) from [checkra1n/PongoOS](https://github.com/checkra1n/PongoOS)<br>
+5. ⭐ Starred [checkra1n/PongoOS](https://github.com/checkra1n/PongoOS)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
