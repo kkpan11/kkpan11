@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📦 Pushed 15 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-2. 📦 Pushed 264 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-3. 📦 Pushed 270 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-4. 📦 Pushed 15 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-5. 📦 Pushed 2519 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+1. 🍴 Forked [kkpan11/termvisage](https://github.com/kkpan11/termvisage) from [AnonymouX47/termvisage](https://github.com/AnonymouX47/termvisage)<br>
+2. ⭐ Starred [AnonymouX47/termvisage](https://github.com/AnonymouX47/termvisage)<br>
+3. 🍴 Forked [kkpan11/python-imgcat](https://github.com/kkpan11/python-imgcat) from [wookayin/python-imgcat](https://github.com/wookayin/python-imgcat)<br>
+4. ⭐ Starred [wookayin/python-imgcat](https://github.com/wookayin/python-imgcat)<br>
+5. 📦 Pushed 15 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
