@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📦 Pushed 278 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-2. 📦 Pushed 103 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-3. 📦 Pushed 2 commit(s) to [kkpan11/AsahiLinux-linux](https://github.com/kkpan11/AsahiLinux-linux)<br>
-4. 📦 Pushed 10000 commit(s) to [kkpan11/AsahiLinux-linux](https://github.com/kkpan11/AsahiLinux-linux)<br>
-5. 📦 Pushed 2 commit(s) to [kkpan11/AsahiLinux-linux](https://github.com/kkpan11/AsahiLinux-linux)<br>
+1. 🍴 Forked [kkpan11/windowsterminal-shell](https://github.com/kkpan11/windowsterminal-shell) from [lextm/windowsterminal-shell](https://github.com/lextm/windowsterminal-shell)<br>
+2. ⭐ Starred [lextm/windowsterminal-shell](https://github.com/lextm/windowsterminal-shell)<br>
+3. 🍴 Forked [kkpan11/uv](https://github.com/kkpan11/uv) from [astral-sh/uv](https://github.com/astral-sh/uv)<br>
+4. 🍴 Forked [kkpan11/ruff-lsp](https://github.com/kkpan11/ruff-lsp) from [astral-sh/ruff-lsp](https://github.com/astral-sh/ruff-lsp)<br>
+5. 🍴 Forked [kkpan11/ruff](https://github.com/kkpan11/ruff) from [astral-sh/ruff](https://github.com/astral-sh/ruff)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
