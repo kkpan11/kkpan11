@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📦 Pushed 90 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-2. 📦 Pushed 6 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-3. 📦 Pushed 242 commit(s) to [kkpan11/AsahiLinux-linux](https://github.com/kkpan11/AsahiLinux-linux)<br>
-4. 📦 Pushed 218 commit(s) to [kkpan11/AsahiLinux-linux](https://github.com/kkpan11/AsahiLinux-linux)<br>
-5. 📦 Pushed 2041 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+1. 📦 Pushed 340 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+2. 📦 Pushed 337 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+3. 📦 Pushed 86 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+4. 📦 Pushed 2 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+5. 📦 Pushed 2 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
