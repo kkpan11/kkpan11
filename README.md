@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/OpenCircuits](undefined) from [OpenCircuits/OpenCircuits](https://github.com/OpenCircuits/OpenCircuits)<br>
-2. 🍴 Forked [kkpan11/GElectrical](undefined) from [manuvarkey/GElectrical](https://github.com/manuvarkey/GElectrical)<br>
-3. ⭐ Starred [manuvarkey/GElectrical](https://github.com/manuvarkey/GElectrical)<br>
-4. ⭐ Starred [OpenCircuits/OpenCircuits](https://github.com/OpenCircuits/OpenCircuits)<br>
-5. 🍴 Forked [kkpan11/pyleecan](undefined) from [Eomys/pyleecan](https://github.com/Eomys/pyleecan)<br>
+1. 🍴 Forked [kkpan11/qelectrotech-source-mirror](undefined) from [qelectrotech/qelectrotech-source-mirror](https://github.com/qelectrotech/qelectrotech-source-mirror)<br>
+2. ⭐ Starred [qelectrotech/qelectrotech-source-mirror](https://github.com/qelectrotech/qelectrotech-source-mirror)<br>
+3. 🍴 Forked [kkpan11/diy-layout-creator](undefined) from [bancika/diy-layout-creator](https://github.com/bancika/diy-layout-creator)<br>
+4. ⭐ Starred [bancika/diy-layout-creator](https://github.com/bancika/diy-layout-creator)<br>
+5. 🍴 Forked [kkpan11/OpenCircuits](undefined) from [OpenCircuits/OpenCircuits](https://github.com/OpenCircuits/OpenCircuits)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
