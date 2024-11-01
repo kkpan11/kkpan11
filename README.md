@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/Elffont](undefined) from [justfont/Elffont](https://github.com/justfont/Elffont)<br>
-2. ⭐ Starred [justfont/Elffont](https://github.com/justfont/Elffont)<br>
-3. 📦 Pushed 313 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-4. 📦 Pushed 317 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-5. 📦 Pushed 433 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+1. 🍴 Forked [kkpan11/OpenCircuits](undefined) from [OpenCircuits/OpenCircuits](https://github.com/OpenCircuits/OpenCircuits)<br>
+2. 🍴 Forked [kkpan11/GElectrical](undefined) from [manuvarkey/GElectrical](https://github.com/manuvarkey/GElectrical)<br>
+3. ⭐ Starred [manuvarkey/GElectrical](https://github.com/manuvarkey/GElectrical)<br>
+4. ⭐ Starred [OpenCircuits/OpenCircuits](https://github.com/OpenCircuits/OpenCircuits)<br>
+5. 🍴 Forked [kkpan11/pyleecan](undefined) from [Eomys/pyleecan](https://github.com/Eomys/pyleecan)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
