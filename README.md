@@ -43,11 +43,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 February 2025 - To: 25 March 2025
+From: 25 February 2025 - To: 27 March 2025
 
-Total Time: 12 hrs 33 mins
+Total Time: 10 hrs 19 mins
 
-Markdown   12 hrs 33 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+Markdown   10 hrs 19 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
 <!--END_SECTION:waka-->
