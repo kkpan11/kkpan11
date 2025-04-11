@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/lz4](https://github.com/kkpan11/lz4) from [lz4/lz4](https://github.com/lz4/lz4)<br>
-2. 🍴 Forked [kkpan11/fast-lzma2](https://github.com/kkpan11/fast-lzma2) from [conor42/fast-lzma2](https://github.com/conor42/fast-lzma2)<br>
-3. 🍴 Forked [kkpan11/zlib](https://github.com/kkpan11/zlib) from [madler/zlib](https://github.com/madler/zlib)<br>
-4. 🍴 Forked [kkpan11/lizard](https://github.com/kkpan11/lizard) from [inikep/lizard](https://github.com/inikep/lizard)<br>
-5. ⭐ Starred [madler/zlib](https://github.com/madler/zlib)<br>
+1. 📦 Pushed 361 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+2. 📦 Pushed 361 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+3. 📦 Pushed 6 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+4. 📦 Pushed 147 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+5. 📦 Pushed 9 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
