@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/subtitle-translator-electron](https://github.com/kkpan11/subtitle-translator-electron) from [gnehs/subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron)<br>
-2. ⭐ Starred [gnehs/subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron)<br>
-3. 📦 Pushed 50 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-4. 📦 Pushed 28 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-5. 📦 Pushed 3 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+1. 📦 Pushed 18 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+2. 📦 Pushed 8 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+3. 🍴 Forked [kkpan11/subtitle-translator-electron](https://github.com/kkpan11/subtitle-translator-electron) from [gnehs/subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron)<br>
+4. ⭐ Starred [gnehs/subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron)<br>
+5. 📦 Pushed 50 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
