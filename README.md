@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/openmtp](https://github.com/kkpan11/openmtp) from [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp)<br>
-2. ⭐ Starred [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp)<br>
-3. 📦 Pushed 2 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-4. 📦 Pushed 3 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-5. 📦 Pushed 49 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+1. 📦 Pushed 3 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+2. 📦 Pushed 31 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+3. 📦 Pushed 2 commit(s) to [kkpan11/AsahiLinux-linux](https://github.com/kkpan11/AsahiLinux-linux)<br>
+4. 🍴 Forked [kkpan11/openmtp](https://github.com/kkpan11/openmtp) from [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp)<br>
+5. ⭐ Starred [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
