@@ -43,12 +43,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 July 2025 - To: 06 August 2025
+From: 08 July 2025 - To: 07 August 2025
 
-Total Time: 6 hrs 2 mins
+Total Time: 5 hrs 48 mins
 
-Markdown   5 hrs 15 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀   87.03 %
-Swift      47 mins         ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.97 %
+Markdown   5 hrs 1 min     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀   86.51 %
+Swift      47 mins         ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.49 %
 ```
 
 <!--END_SECTION:waka-->
