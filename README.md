@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/programmingfonts](https://github.com/kkpan11/programmingfonts) from [braver/programmingfonts](https://github.com/braver/programmingfonts)<br>
-2. ⭐ Starred [braver/programmingfonts](https://github.com/braver/programmingfonts)<br>
-3. ⭐ Starred [ytang/welly](https://github.com/ytang/welly)<br>
-4. 📦 Pushed 76 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-5. 📦 Pushed 78 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+1. 🍴 Forked [kkpan11/nightfox.nvim](https://github.com/kkpan11/nightfox.nvim) from [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)<br>
+2. ⭐ Starred [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)<br>
+3. 🍴 Forked [kkpan11/programmingfonts](https://github.com/kkpan11/programmingfonts) from [braver/programmingfonts](https://github.com/braver/programmingfonts)<br>
+4. ⭐ Starred [braver/programmingfonts](https://github.com/braver/programmingfonts)<br>
+5. ⭐ Starred [ytang/welly](https://github.com/ytang/welly)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
