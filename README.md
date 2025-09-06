@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📦 Pushed 599 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-2. 📦 Pushed 5 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-3. 📦 Pushed 157 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-4. 📦 Pushed 1 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-5. 📦 Pushed 3 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+1. 🍴 Forked [kkpan11/serverless-examples](https://github.com/kkpan11/serverless-examples) from [serverless/examples](https://github.com/serverless/examples)<br>
+2. 🍴 Forked [kkpan11/serverless](https://github.com/kkpan11/serverless) from [serverless/serverless](https://github.com/serverless/serverless)<br>
+3. 🍴 Forked [kkpan11/picard](https://github.com/kkpan11/picard) from [metabrainz/picard](https://github.com/metabrainz/picard)<br>
+4. ⭐ Starred [metabrainz/picard](https://github.com/metabrainz/picard)<br>
+5. 🍴 Forked [kkpan11/MediaInfo](https://github.com/kkpan11/MediaInfo) from [MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
