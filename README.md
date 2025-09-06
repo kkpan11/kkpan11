@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/serverless-examples](https://github.com/kkpan11/serverless-examples) from [serverless/examples](https://github.com/serverless/examples)<br>
-2. 🍴 Forked [kkpan11/serverless](https://github.com/kkpan11/serverless) from [serverless/serverless](https://github.com/serverless/serverless)<br>
-3. 🍴 Forked [kkpan11/picard](https://github.com/kkpan11/picard) from [metabrainz/picard](https://github.com/metabrainz/picard)<br>
-4. ⭐ Starred [metabrainz/picard](https://github.com/metabrainz/picard)<br>
-5. 🍴 Forked [kkpan11/MediaInfo](https://github.com/kkpan11/MediaInfo) from [MediaArea/MediaInfo](https://github.com/MediaArea/MediaInfo)<br>
+1. 🍴 Forked [kkpan11/linkding](https://github.com/kkpan11/linkding) from [sissbruecker/linkding](https://github.com/sissbruecker/linkding)<br>
+2. 🍴 Forked [kkpan11/karakeep](https://github.com/kkpan11/karakeep) from [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)<br>
+3. ⭐ Starred [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)<br>
+4. 🍴 Forked [kkpan11/serverless-examples](https://github.com/kkpan11/serverless-examples) from [serverless/examples](https://github.com/serverless/examples)<br>
+5. 🍴 Forked [kkpan11/serverless](https://github.com/kkpan11/serverless) from [serverless/serverless](https://github.com/serverless/serverless)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
