@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/pdns](https://github.com/kkpan11/pdns) from [PowerDNS/pdns](https://github.com/PowerDNS/pdns)<br>
-2. ⭐ Starred [PowerDNS/pdns](https://github.com/PowerDNS/pdns)<br>
-3. 🍴 Forked [kkpan11/proxelar](https://github.com/kkpan11/proxelar) from [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar)<br>
-4. ⭐ Starred [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar)<br>
-5. 🍴 Forked [kkpan11/mockttp](https://github.com/kkpan11/mockttp) from [httptoolkit/mockttp](https://github.com/httptoolkit/mockttp)<br>
+1. 🍴 Forked [kkpan11/jSquash](https://github.com/kkpan11/jSquash) from [jamsinclair/jSquash](https://github.com/jamsinclair/jSquash)<br>
+2. ⭐ Starred [jamsinclair/jSquash](https://github.com/jamsinclair/jSquash)<br>
+3. 🍴 Forked [kkpan11/quicklink](https://github.com/kkpan11/quicklink) from [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink)<br>
+4. 🍴 Forked [kkpan11/comlink](https://github.com/kkpan11/comlink) from [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink)<br>
+5. ⭐ Starred [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
