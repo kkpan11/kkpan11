@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/n](https://github.com/kkpan11/n) from [tj/n](https://github.com/tj/n)<br>
-2. 🍴 Forked [kkpan11/nvm](https://github.com/kkpan11/nvm) from [nvm-sh/nvm](https://github.com/nvm-sh/nvm)<br>
-3. ⭐ Starred [tj/n](https://github.com/tj/n)<br>
-4. 🍴 Forked [kkpan11/tinify-nodejs](https://github.com/kkpan11/tinify-nodejs) from [tinify/tinify-nodejs](https://github.com/tinify/tinify-nodejs)<br>
-5. ⭐ Starred [tinify/tinify-nodejs](https://github.com/tinify/tinify-nodejs)<br>
+1. 📦 Pushed 947 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+2. 📦 Pushed 11 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+3. 📦 Pushed 49 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+4. 📦 Pushed 12 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+5. 📦 Pushed 14 commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
