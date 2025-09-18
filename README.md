@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/jSquash](https://github.com/kkpan11/jSquash) from [jamsinclair/jSquash](https://github.com/jamsinclair/jSquash)<br>
-2. ⭐ Starred [jamsinclair/jSquash](https://github.com/jamsinclair/jSquash)<br>
-3. 🍴 Forked [kkpan11/quicklink](https://github.com/kkpan11/quicklink) from [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink)<br>
-4. 🍴 Forked [kkpan11/comlink](https://github.com/kkpan11/comlink) from [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink)<br>
-5. ⭐ Starred [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink)<br>
+1. 🍴 Forked [kkpan11/tinify-nodejs](https://github.com/kkpan11/tinify-nodejs) from [tinify/tinify-nodejs](https://github.com/tinify/tinify-nodejs)<br>
+2. ⭐ Starred [tinify/tinify-nodejs](https://github.com/tinify/tinify-nodejs)<br>
+3. 🍴 Forked [kkpan11/Pngyu](https://github.com/kkpan11/Pngyu) from [nukesaq88/Pngyu](https://github.com/nukesaq88/Pngyu)<br>
+4. ⭐ Starred [nukesaq88/Pngyu](https://github.com/nukesaq88/Pngyu)<br>
+5. 🍴 Forked [kkpan11/jSquash](https://github.com/kkpan11/jSquash) from [jamsinclair/jSquash](https://github.com/jamsinclair/jSquash)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
