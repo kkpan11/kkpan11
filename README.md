@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/tinify-nodejs](https://github.com/kkpan11/tinify-nodejs) from [tinify/tinify-nodejs](https://github.com/tinify/tinify-nodejs)<br>
-2. ⭐ Starred [tinify/tinify-nodejs](https://github.com/tinify/tinify-nodejs)<br>
-3. 🍴 Forked [kkpan11/Pngyu](https://github.com/kkpan11/Pngyu) from [nukesaq88/Pngyu](https://github.com/nukesaq88/Pngyu)<br>
-4. ⭐ Starred [nukesaq88/Pngyu](https://github.com/nukesaq88/Pngyu)<br>
-5. 🍴 Forked [kkpan11/jSquash](https://github.com/kkpan11/jSquash) from [jamsinclair/jSquash](https://github.com/jamsinclair/jSquash)<br>
+1. 🍴 Forked [kkpan11/n](https://github.com/kkpan11/n) from [tj/n](https://github.com/tj/n)<br>
+2. 🍴 Forked [kkpan11/nvm](https://github.com/kkpan11/nvm) from [nvm-sh/nvm](https://github.com/nvm-sh/nvm)<br>
+3. ⭐ Starred [tj/n](https://github.com/tj/n)<br>
+4. 🍴 Forked [kkpan11/tinify-nodejs](https://github.com/kkpan11/tinify-nodejs) from [tinify/tinify-nodejs](https://github.com/tinify/tinify-nodejs)<br>
+5. ⭐ Starred [tinify/tinify-nodejs](https://github.com/tinify/tinify-nodejs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
