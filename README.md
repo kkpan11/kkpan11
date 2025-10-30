@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-2. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-3. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-4. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-5. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+1. 🍴 Forked [kkpan11/WritingAIPaper](https://github.com/kkpan11/WritingAIPaper) from [kkpan11/WritingAIPaper](https://github.com/kkpan11/WritingAIPaper)<br>
+2. 🍴 Forked [kkpan11/shareOI](https://github.com/kkpan11/shareOI) from [kkpan11/shareOI](https://github.com/kkpan11/shareOI)<br>
+3. ⭐ Starred [hzwer/WritingAIPaper](https://github.com/hzwer/WritingAIPaper)<br>
+4. ⭐ Starred [hzwer/shareOI](https://github.com/hzwer/shareOI)<br>
+5. 🍴 Forked [kkpan11/realcugan-ncnn-vulkan](https://github.com/kkpan11/realcugan-ncnn-vulkan) from [kkpan11/realcugan-ncnn-vulkan](https://github.com/kkpan11/realcugan-ncnn-vulkan)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
