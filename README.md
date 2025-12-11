@@ -14,10 +14,10 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/lobbs](https://github.com/kkpan11/lobbs) from [MeshEnvy/lobbs](https://github.com/MeshEnvy/lobbs)<br>
-2. ⭐ Starred [MeshEnvy/lobbs](https://github.com/MeshEnvy/lobbs)<br>
-3. 🍴 Forked [kkpan11/modern-software-dev-assignments](https://github.com/kkpan11/modern-software-dev-assignments) from [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments)<br>
-4. ⭐ Starred [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments)<br>
+1. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+2. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+3. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+4. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
 5. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
 <!--RECENT_ACTIVITY:end-->
 
