@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🍴 Forked [kkpan11/EasyCap-Linux](https://github.com/kkpan11/EasyCap-Linux) from [stephenlacy/EasyCap](https://github.com/stephenlacy/EasyCap)<br>
-2. ⭐ Starred [stephenlacy/EasyCap](https://github.com/stephenlacy/EasyCap)<br>
-3. 🍴 Forked [kkpan11/Easycam-Android](https://github.com/kkpan11/Easycam-Android) from [Arksine/Easycam](https://github.com/Arksine/Easycam)<br>
-4. ⭐ Starred [Arksine/Easycam](https://github.com/Arksine/Easycam)<br>
-5. 🍴 Forked [kkpan11/streamlabs-desktop](https://github.com/kkpan11/streamlabs-desktop) from [streamlabs/desktop](https://github.com/streamlabs/desktop)<br>
+1. 🍴 Forked [kkpan11/dosbox-staging](https://github.com/kkpan11/dosbox-staging) from [dosbox-staging/dosbox-staging](https://github.com/dosbox-staging/dosbox-staging)<br>
+2. 🍴 Forked [kkpan11/cdemu](https://github.com/kkpan11/cdemu) from [cdemu/cdemu](https://github.com/cdemu/cdemu)<br>
+3. ⭐ Starred [cdemu/cdemu](https://github.com/cdemu/cdemu)<br>
+4. ⭐ Starred [dosbox-staging/dosbox-staging](https://github.com/dosbox-staging/dosbox-staging)<br>
+5. 🍴 Forked [kkpan11/EasyCap-Linux](https://github.com/kkpan11/EasyCap-Linux) from [stephenlacy/EasyCap](https://github.com/stephenlacy/EasyCap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
