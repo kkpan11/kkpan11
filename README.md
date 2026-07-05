@@ -43,11 +43,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2026 - To: 02 July 2026
+From: 04 June 2026 - To: 04 July 2026
 
-Total Time: 17 hrs 25 mins
+Total Time: 11 hrs 32 mins
 
-Markdown   17 hrs 25 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+Markdown   11 hrs 32 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
 <!--END_SECTION:waka-->
