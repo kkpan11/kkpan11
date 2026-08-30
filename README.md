@@ -15,10 +15,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-2. 🍴 Forked [kkpan11/IsaacLab](https://github.com/kkpan11/IsaacLab) from [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab)<br>
-3. ⭐ Starred [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab)<br>
-4. 📦 Pushed undefined commit(s) to [kkpan11/AsahiLinux-linux](https://github.com/kkpan11/AsahiLinux-linux)<br>
-5. 🍴 Forked [kkpan11/drone-life](https://github.com/kkpan11/drone-life) from [CG-AA/drone-life](https://github.com/CG-AA/drone-life)<br>
+2. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+3. 🍴 Forked [kkpan11/IsaacLab](https://github.com/kkpan11/IsaacLab) from [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab)<br>
+4. ⭐ Starred [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab)<br>
+5. 📦 Pushed undefined commit(s) to [kkpan11/AsahiLinux-linux](https://github.com/kkpan11/AsahiLinux-linux)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
