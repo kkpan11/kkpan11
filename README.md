@@ -16,8 +16,8 @@
 <!--RECENT_ACTIVITY:start-->
 1. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
 2. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-3. 🍴 Forked [kkpan11/IsaacLab](https://github.com/kkpan11/IsaacLab) from [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab)<br>
-4. ⭐ Starred [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab)<br>
+3. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+4. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
 5. 📦 Pushed undefined commit(s) to [kkpan11/AsahiLinux-linux](https://github.com/kkpan11/AsahiLinux-linux)<br>
 <!--RECENT_ACTIVITY:end-->
 
