@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-2. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-3. 📦 Pushed undefined commit(s) to [kkpan11/AsahiLinux-linux](https://github.com/kkpan11/AsahiLinux-linux)<br>
-4. 🍴 Forked [kkpan11/OnionBrowser](https://github.com/kkpan11/OnionBrowser) from [OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser)<br>
-5. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+1. 🍴 Forked [kkpan11/OpenUserJS.org](https://github.com/kkpan11/OpenUserJS.org) from [OpenUserJS/OpenUserJS.org](https://github.com/OpenUserJS/OpenUserJS.org)<br>
+2. ⭐ Starred [OpenUserJS/OpenUserJS.org](https://github.com/OpenUserJS/OpenUserJS.org)<br>
+3. 🍴 Forked [kkpan11/markmap](https://github.com/kkpan11/markmap) from [markmap/markmap](https://github.com/markmap/markmap)<br>
+4. 🍴 Forked [kkpan11/tampermonkey](https://github.com/kkpan11/tampermonkey) from [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey)<br>
+5. ⭐ Starred [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
