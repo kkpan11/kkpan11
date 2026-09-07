@@ -14,9 +14,9 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-2. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-3. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+1. 🍴 Forked [kkpan11/DeDRM_tools](https://github.com/kkpan11/DeDRM_tools) from [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools)<br>
+2. 🍴 Forked [kkpan11/kobo-utilities](https://github.com/kkpan11/kobo-utilities) from [janlarres/kobo-utilities](https://github.com/janlarres/kobo-utilities)<br>
+3. ⭐ Starred [janlarres/kobo-utilities](https://github.com/janlarres/kobo-utilities)<br>
 4. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
 5. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
 <!--RECENT_ACTIVITY:end-->
