@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-2. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-3. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-4. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-5. 📦 Pushed undefined commit(s) to [kkpan11/AsahiLinux-linux](https://github.com/kkpan11/AsahiLinux-linux)<br>
+1. 🍴 Forked [kkpan11/The-Open-Book](https://github.com/kkpan11/The-Open-Book) from [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book)<br>
+2. 🍴 Forked [kkpan11/open-electronics](https://github.com/kkpan11/open-electronics) from [ajaymnk/open-electronics](https://github.com/ajaymnk/open-electronics)<br>
+3. ⭐ Starred [ajaymnk/open-electronics](https://github.com/ajaymnk/open-electronics)<br>
+4. 🍴 Forked [kkpan11/kicad-source-mirror](https://github.com/kkpan11/kicad-source-mirror) from [KiCad/kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror)<br>
+5. ⭐ Starred [KiCad/kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
