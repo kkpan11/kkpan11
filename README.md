@@ -16,9 +16,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
 2. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-3. 🍴 Forked [kkpan11/designcraft](https://github.com/kkpan11/designcraft) from [storytold/designcraft](https://github.com/storytold/designcraft)<br>
-4. ⭐ Starred [storytold/designcraft](https://github.com/storytold/designcraft)<br>
-5. ⭐ Starred [storytold/effectcraft](https://github.com/storytold/effectcraft)<br>
+3. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+4. 🍴 Forked [kkpan11/designcraft](https://github.com/kkpan11/designcraft) from [storytold/designcraft](https://github.com/storytold/designcraft)<br>
+5. ⭐ Starred [storytold/designcraft](https://github.com/storytold/designcraft)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
