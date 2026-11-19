@@ -14,11 +14,11 @@
 <h3 align="left">⚡ Recent Activity:</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-2. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+1. 🍴 Forked [kkpan11/github-stats-extended](https://github.com/kkpan11/github-stats-extended) from [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended)<br>
+2. ⭐ Starred [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended)<br>
 3. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-4. 📦 Pushed undefined commit(s) to [kkpan11/AsahiLinux-linux](https://github.com/kkpan11/AsahiLinux-linux)<br>
-5. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+4. 🍴 Forked [kkpan11/exiftool](https://github.com/kkpan11/exiftool) from [exiftool/exiftool](https://github.com/exiftool/exiftool)<br>
+5. 🍴 Forked [kkpan11/audreyt-pdis-transcript](https://github.com/kkpan11/audreyt-pdis-transcript) from [audreyt/transcript](https://github.com/audreyt/transcript)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <h3 align="left">Connect with me:</h3>
