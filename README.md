@@ -16,8 +16,8 @@
 <!--RECENT_ACTIVITY:start-->
 1. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
 2. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
-3. 🍴 Forked [kkpan11/github-stats-extended](https://github.com/kkpan11/github-stats-extended) from [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended)<br>
-4. ⭐ Starred [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended)<br>
+3. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
+4. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
 5. 📦 Pushed undefined commit(s) to [kkpan11/apple-llvm-project](https://github.com/kkpan11/apple-llvm-project)<br>
 <!--RECENT_ACTIVITY:end-->
 
